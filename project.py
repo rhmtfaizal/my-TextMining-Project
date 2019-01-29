@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Nov 23 08:22:53 2018
-
-@author: user
-"""
 import math
 from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
 import csv
