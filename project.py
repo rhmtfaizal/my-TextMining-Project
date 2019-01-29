@@ -8,7 +8,6 @@ import math
 from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
 import csv
 import re
-import pandas as pd
 
 def bacaData(doc):
     hasil=[]
